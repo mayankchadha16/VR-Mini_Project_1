@@ -1,1 +1,1 @@
-# VR-Assignment3
+# CNN_Based_Visual_Recognition
